@@ -25,7 +25,7 @@ $fa-version:    "4.0.3" !default;
 }
 
 // info icons
-%external-link-icon:before { @extend %icon; content: $external-link-icon !important; }
+%external-link-icon { text-decoration: underline; } //CUSTOM
 %email-icon:before { @extend %icon; content: $email-icon !important; }
 %phone-icon:before { @extend %icon; content: $phone-icon !important; }
 %mobile-icon:before { @extend %icon; content: $mobile-icon !important; }
