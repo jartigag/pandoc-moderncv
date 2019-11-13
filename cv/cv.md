@@ -15,20 +15,26 @@ settings:
 footer: |
     - [jartigag](https://twitter.com/jartigag)
     - [jartigag](https://github.com/jartigag)
-    - [javier-artiga-garijo](https://linkedin.com/in/javier-artiga-garijo)
+    - [javier-artiga-garijo](https://linkedin.com/in/javier-artiga-garijo) \
+    \
+    Actualizado en noviembre de 2019
 ---
 
 Perfil
 -------
 
-Estudiante de último año del Grado en Ingeniería de Telecomunicación. Entusiasta del aprendizaje continuo y multidisciplinar, el análisis, el desarrollo de software con buenas prácticas y los diseños simples pero elegantes.  
-También tengo interés por: software libre, ciberseguridad, OSINT, visualización de datos y música.
+Graduado en Ingeniería de Telecomunicación. Entusiasta del aprendizaje continuo y multidisciplinar, el análisis, el desarrollo de software con buenas
+prácticas y los diseños simples pero elegantes.  
+También tengo interés por: visualización de datos, software libre, ciberseguridad y música.
 
 Experiencia laboral
 -------------------
 
 Ene2019-Ahora<br><a href="https://www.naudit.es"><img src="images/naudit.png" style="height: 55px; padding-top: 15px"/></a>
-:   Analista Junior en [**Naudit**](https://www.naudit.es)
+:   Analista Junior en [**Naudit HPCN**](https://www.naudit.es)
+
+    Análisis de tráfico en grandes redes (investigación de incidencias, optimización). Desarrollo de procesados en tiempo real sobre altos volúmenes
+    de logs. Diseño de dashboards para monitorizar datos de red, sistemas y negocio.
 
 Jun-Sep2018<br><a href="https://www.elevenpaths.com"><img src="images/11p.png" style="height: 55px; padding-top: 15px"/></a>
 :   Colaboración en [**ElevenPaths (Telefónica)**](https://www.elevenpaths.com)
@@ -46,10 +52,6 @@ Educación
     *Universidad Pública de Navarra*, Pamplona \
     *Mención en Telemática*
 
-2012-2014
-:   **Grado** en Ingeniería de Tecnologías y Servicios de Telecomunicación \
-    *Universidad de Zaragoza*, Zaragoza
-
 Idiomas
 -------
 
@@ -66,11 +68,10 @@ Habilidades Técnicas
 :   Elasticsearch, Grafana, Kibana
 
 **Lenguajes**
-:   Python, Java, PHP \
-    Aprendiendo: Bash, Dart (con Flutter), AWK
+:   Python, Java, PHP, Bash, AWK
 
 **Herramientas**
-:   Git, Eclipse, AndroidStudio, Matlab
+:   Git, Docker, Eclipse, AndroidStudio, Matlab
 
 **Web**
 :   HTML, CSS, Javascript, Jekyll, Bootstrap
@@ -96,13 +97,10 @@ Proyectos
 ---------
 
 **Proyecto Fin de Estudios**
-:   **Detección de dominios *typosquatting*:** \
-    Sistema de monitorización de dominios *typosquatting*, \
-    basado en recoger información con peticiones DNS, Whois y HTTP \
-    y almacenarla en un servidor de búsqueda Elasticsearch
+:   **Detección de dominios *typosquatting*:** Sistema de monitorización de dominios typosquatting, basado en recoger información con peticiones DNS,
+    Whois y HTTP y almacenarla en un servidor de búsqueda Elasticsearch
 
 **Proyectos secundarios**
 :   [**TheyLendMe**](https://github.com/TheyLendMe/app-theylendme), app de préstamos entre personas y grupos \
     [**Blog personal**](https://jartigag.xyz/blog), de frecuencia mensual, con contenido conciso y principalmente técnico \
-    [**Cubiertos**](https://github.com/jartigag/cubiertos-para-twitter), conjunto de herramientas para Twitter \
-    [**Ttymetracker**](https://github.com/jartigag/ttymetracker), time-tracker de terminal
+    Otros muchos [**repositorios propios en Github**](https://github.com/jartigag)
