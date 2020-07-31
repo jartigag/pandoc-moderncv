@@ -33,7 +33,7 @@ Experiencia laboral
 Ene2019-Ahora<br><a href="https://www.naudit.es"><img src="images/naudit.png" style="height: 55px; padding-top: 15px"/></a>
 :   Analista en [**Naudit HPCN**](https://www.naudit.es)
 
-    · Implementación de un SIEM, sistema de alertas e informes cliente.  
+    · Implementación de un SIEM, sistema de alertas e informes para cliente.  
     · Análisis de tráfico en grandes redes (investigación de incidencias, optimización).  
     · Desarrollo de procesados en tiempo real sobre altos volúmenes de logs.  
     · Diseño de dashboards para monitorizar datos de red, sistemas y negocio.  
