@@ -45,7 +45,7 @@ scaffold:
 ifeq "$(wildcard $(SRC_DIR) )" ""
 	rsync -rupE $(SCAFFOLDS_DIR)/ $(SRC_DIR)/;
 	@echo $(SRC_DIR) created, enjoy!;
-else 
+else
 	@echo $(SRC_DIR) already exists!;
 endif
 
@@ -68,7 +68,6 @@ media: | directories
 html: media style templates/cv.html parts $(SRC_DIR)/cv.md | directories
 	pandoc --standalone \
 	  --section-divs \
-	  --smart \
 	  --template templates/cv.html \
 	  --from markdown+yaml_metadata_block+header_attributes+definition_lists \
 	  --to html5 \
