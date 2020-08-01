@@ -39,6 +39,8 @@ Ene2019-Ahora<br><a href="https://www.naudit.es"><img src="images/naudit.png" st
     · Diseño de dashboards para monitorizar datos de red, sistemas y negocio.  
     · Administración de sistemas Linux. Scripting, automatización, mantenimiento.
 
+<p class="techs">elasticsearch | kibana | grafana | logstash | análisis de datos | linux | awk | python | redes | git</p>
+
 Jun-Sep2018<br><a href="https://www.elevenpaths.com"><img src="images/11p.png" style="height: 55px; padding-top: 15px"/></a>
 :   Colaboración en [**ElevenPaths (Telefónica)**](https://www.elevenpaths.com)
 
@@ -46,6 +48,8 @@ Jun-Sep2018<br><a href="https://www.elevenpaths.com"><img src="images/11p.png" s
 
     Puede verse una explicación del trabajo en el que participé visitando  
 [https://typosquad.e-paths.com](https://typosquad.e-paths.com)
+
+<p class="techs">python | elasticsearch | kibana</p>
 
 Educación
 ---------
@@ -55,10 +59,14 @@ Educación
     Datos Masivos / Visual Analytics & Big Data \
     *Universidad Internacional de La Rioja*, Logroño
 
+<p class="techs">inteligencia artificial | machine learning | estadística | mongodb | hadoop | spark | r | tableau | d3js | bi</p>
+
 2015-2019<br><a href="https://www.unavarra.es"><img src="images/upna.png" style="height: 55px; padding-top: 15px"/></a>
 :   **Grado** en Ingeniería de Tecnologías de Telecomunicación \
     *Universidad Pública de Navarra*, Pamplona \
     *Mención en Telemática* \
+
+<p class="techs">redes | procesado de señal | electrónica | telecomunicaciones | java | php | javascript</p>
 
 Idiomas
 -------
