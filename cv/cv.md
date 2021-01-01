@@ -57,14 +57,14 @@ Jun-Sep2018<br><a href="https://www.elevenpaths.com"><img src="images/11p.png" s
 Educación
 ---------
 
-2019-2020<br><a href="https://www.unavarra.es"><img src="images/unir.png" style="height: 55px; padding-top: 15px"/></a>
+2019-2020<br><a href="https://www.unir.net/ingenieria/master-visual-analytics-big-data/"><img src="images/unir.png" style="height: 55px; padding-top: 15px"/></a>
 :   **Máster** Universitario en Análisis y Visualización de \
     Datos Masivos / Visual Analytics & Big Data \
     *Universidad Internacional de La Rioja*, Logroño
 
 <p class="techs">inteligencia artificial | machine learning | estadística | mongodb | hadoop | spark | r | tableau | d3js | bi</p>
 
-2015-2019<br><a href="https://www.unavarra.es"><img src="images/upna.png" style="height: 55px; padding-top: 15px"/></a>
+2015-2019<br><a href="http://www.unavarra.es/sites/grados/informatica-y-telecomunicacion/ingenieria-telecomunicacion/presentacion.html"><img src="images/upna.png" style="height: 55px; padding-top: 15px"/></a>
 :   **Grado** en Ingeniería de Tecnologías de Telecomunicación \
     *Universidad Pública de Navarra*, Pamplona \
     *Mención en Telemática* \
