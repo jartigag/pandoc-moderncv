@@ -30,8 +30,8 @@ También tengo interés por: visualización de datos, software libre, cibersegur
 Experiencia laboral
 -------------------
 
-Ene2019-Ahora<br><a href="https://www.naudit.es"><img src="images/naudit.png" style="height: 55px; padding-top: 15px"/></a>
-:   Analista en [**Naudit HPCN**](https://www.naudit.es)
+Ene2019-Ahora<br><a href="http://www.naudit.es"><img src="images/naudit.png" style="height: 55px; padding-top: 15px"/></a>
+:   Analista en [**Naudit HPCN**](http://www.naudit.es)
 
     · Implementación propia de diversos sistemas para clientes finales. Por ejemplo:  
     ⠀   · SIEM con logs de firewalls, servidores y otras fuentes.  
@@ -64,7 +64,7 @@ Educación
 
 <p class="techs">inteligencia artificial | machine learning | estadística | mongodb | hadoop | spark | r | tableau | d3js | bi</p>
 
-2015-2019<br><a href="http://www.unavarra.es/sites/grados/informatica-y-telecomunicacion/ingenieria-telecomunicacion/presentacion.html"><img src="images/upna.png" style="height: 55px; padding-top: 15px"/></a>
+2015-2019<br><a href="https://www.unavarra.es/sites/grados/informatica-y-telecomunicacion/ingenieria-telecomunicacion/presentacion.html"><img src="images/upna.png" style="height: 55px; padding-top: 15px"/></a>
 :   **Grado** en Ingeniería de Tecnologías de Telecomunicación \
     *Universidad Pública de Navarra*, Pamplona \
     *Mención en Telemática* \
