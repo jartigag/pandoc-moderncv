@@ -17,7 +17,7 @@ footer: |
     - [jartigag](https://github.com/jartigag)
     - [javier-artiga-garijo](https://linkedin.com/in/javier-artiga-garijo) \
     \
-    Actualizado en julio de 2020
+    Actualizado en enero de 2021
 ---
 
 Perfil
@@ -33,7 +33,10 @@ Experiencia laboral
 Ene2019-Ahora<br><a href="https://www.naudit.es"><img src="images/naudit.png" style="height: 55px; padding-top: 15px"/></a>
 :   Analista en [**Naudit HPCN**](https://www.naudit.es)
 
-    · Implementación de un SIEM, sistema de alertas e informes para cliente.  
+    · Implementación propia de diversos sistemas para clientes finales. Por ejemplo:  
+    ⠀   · SIEM con logs de firewalls, servidores y otras fuentes.  
+    ⠀   · API de alertas por email sobre queries a Elasticsearch o PostgreSQL.  
+    ⠀   · Informes de monitorización periódicos.  
     · Análisis de tráfico en grandes redes (investigación de incidencias, optimización).  
     · Desarrollo de procesados en tiempo real sobre altos volúmenes de logs.  
     · Diseño de dashboards para monitorizar datos de red, sistemas y negocio.  
@@ -68,6 +71,10 @@ Educación
 
 <p class="techs">redes | procesado de señal | electrónica | telecomunicaciones | java | php | javascript</p>
 
+⠀  
+⠀  
+⠀  
+
 Idiomas
 -------
 
@@ -90,5 +97,16 @@ Proyectos
 
 **Proyectos secundarios**
 :   [**TheyLendMe**](https://github.com/TheyLendMe/app-theylendme), app de préstamos entre personas y grupos \
-    [**Blog personal**](https://jartigag.xyz/blog), de frecuencia mensual, con contenido conciso y principalmente técnico \
+    [**Blog personal**](https://jartigag.xyz/blog), de contenido principalmente técnico \
     Otros muchos [**repositorios propios en Github**](https://github.com/jartigag)
+
+Habilidades Personales
+----------------------
+
+**Música**
+:   Grado Profesional de Clarinete, Conservatorio “Oreste Camarca” de Soria \
+    Experiencia durante 12 años en diversas formaciones (banda, charangas) \
+    Multinstrumentista, autodidacta
+
+**Permiso de Conducir**
+:   B - Coche
