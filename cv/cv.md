@@ -33,7 +33,7 @@ Experiencia laboral
 Ene2019-Ahora<br><a href="http://www.naudit.es"><img src="images/naudit.png" style="height: 55px; padding-top: 15px"/></a>
 :   Analista en [**Naudit HPCN**](http://www.naudit.es)
 
-    · Implementación propia de diversos sistemas para clientes finales. Por ejemplo:  
+    · Implementación propia de diversas soluciones para clientes finales. Por ejemplo:  
     ⠀   · SIEM con logs de firewalls, servidores y otras fuentes.  
     ⠀   · API de alertas por email sobre queries a Elasticsearch o PostgreSQL.  
     ⠀   · Informes de monitorización periódicos.  
